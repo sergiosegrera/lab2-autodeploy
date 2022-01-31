@@ -1,0 +1,18 @@
+{
+  "name": "lab2-autodeploy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sergiosegrera/lab2-autodeploy.git",
+  "author": "Sergio Segrera",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "engines": {
+    "node": "17.4.0",
+    "yarn": "1.22.17"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
